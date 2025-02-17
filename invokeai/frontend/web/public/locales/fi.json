@@ -17,6 +17,8 @@
         "img2img": "Kuva kuvaksi",
         "nodes": "Solmut",
         "postprocessing": "Jälkikäsitellään",
+        "beta": "Beta",
+        "browse": "Selaa",
         "cancel": "Peruuta",
         "accept": "Hyväksy",
         "load": "Lataa",

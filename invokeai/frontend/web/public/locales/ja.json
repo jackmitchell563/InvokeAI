@@ -76,6 +76,7 @@
         "selected": "選択済み",
         "aboutDesc": "Invokeを業務で利用する場合はマークしてください:",
         "beta": "ベータ",
+        "browse": "ブラウズ",
         "disabled": "無効",
         "editor": "エディタ",
         "safetensors": "Safetensors",

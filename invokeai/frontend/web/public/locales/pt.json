@@ -12,7 +12,10 @@
         "statusDisconnected": "Desconectado",
         "githubLabel": "Github",
         "discordLabel": "Discord",
-        "loading": "A carregar"
+        "loading": "A carregar",
+        "beta": "Beta",
+        "browse": "Procurar",
+        "cancel": "Cancelar"
     },
     "gallery": {
         "gallerySettings": "Configurações de Galeria",

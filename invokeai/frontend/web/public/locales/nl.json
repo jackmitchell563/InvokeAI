@@ -64,6 +64,7 @@
         "orderBy": "Sorteer op",
         "prevPage": "Vorige pagina",
         "beta": "Bèta",
+        "browse": "Bladeren",
         "copyError": "$t(gallery.copy) Fout",
         "toResolve": "Op te lossen",
         "aboutDesc": "Gebruik je Invoke voor het werk? Kijk dan naar:",

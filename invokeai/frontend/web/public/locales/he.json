@@ -45,7 +45,10 @@
         "reportBugLabel": "דווח באג",
         "upload": "העלאה",
         "load": "טעינה",
-        "back": "אחורה"
+        "back": "אחורה",
+        "beta": "בטא",
+        "browse": "עיון",
+        "cancel": "ביטול"
     },
     "gallery": {
         "galleryImageSize": "גודל תמונה",

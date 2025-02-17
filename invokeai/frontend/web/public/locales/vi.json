@@ -230,7 +230,9 @@
         "max": "Tối Đa",
         "resetToDefaults": "Đặt Lại Về Mặc Định",
         "seed": "Hạt Giống",
-        "combinatorial": "Tổ Hợp"
+        "combinatorial": "Tổ Hợp",
+        "browse": "Duyệt",
+        "hủy": "Hủy"
     },
     "prompt": {
         "addPromptTrigger": "Thêm Prompt Trigger",

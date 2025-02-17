@@ -82,7 +82,9 @@
         "updated": "Güncelleme",
         "ipAdapter": "IP Aracı",
         "t2iAdapter": "T2I Aracı",
-        "controlNet": "ControlNet"
+        "controlNet": "ControlNet",
+        "beta": "Beta",
+        "browse": "Gözat"
     },
     "accordions": {
         "generation": {

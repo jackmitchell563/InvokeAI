@@ -12,7 +12,10 @@
         "githubLabel": "Github",
         "discordLabel": "Discord",
         "back": "Voltar",
-        "loading": "Carregando"
+        "loading": "Carregando",
+        "beta": "Beta",
+        "browse": "Procurar",
+        "cancel": "Cancelar"
     },
     "gallery": {
         "galleryImageSize": "Tamanho da Imagem",

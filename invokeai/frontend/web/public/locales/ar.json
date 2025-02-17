@@ -9,7 +9,10 @@
         "upload": "رفع",
         "load": "تحميل",
         "back": "الى الخلف",
-        "statusDisconnected": "غير متصل"
+        "statusDisconnected": "غير متصل",
+        "beta": "تجريبي",
+        "browse": "تصفح",
+        "cancel": "إلغاء"
     },
     "gallery": {
         "galleryImageSize": "حجم الصورة",

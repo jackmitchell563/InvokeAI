@@ -98,7 +98,8 @@
         "close": "Fermer",
         "clipboard": "Presse-papier",
         "loadingModel": "Chargement du modèle",
-        "generating": "En Génération"
+        "generating": "En Génération",
+        "browse": "Parcourir"
     },
     "gallery": {
         "galleryImageSize": "Taille de l'image",

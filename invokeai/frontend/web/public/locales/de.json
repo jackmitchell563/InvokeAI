@@ -107,7 +107,8 @@
         "min": "Min",
         "max": "Max",
         "resetToDefaults": "Auf Standard zurücksetzen",
-        "seed": "Seed"
+        "seed": "Seed",
+        "browse": "Durchsuchen"
     },
     "gallery": {
         "galleryImageSize": "Bildgröße",
